@@ -1,3 +1,5 @@
+> Note: This is a personal fork for experimentation. It may diverge from the original upstream repository and is intended for personal use only. Updated on 2025-10-21.
+
 # Kubernetes The Hard Way
 
 This tutorial walks you through setting up Kubernetes the hard way. This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster. If that's you then check out [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine), or the [Getting Started Guides](https://kubernetes.io/docs/setup).
